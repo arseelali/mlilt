@@ -1,0 +1,21 @@
+.l-side-img {
+  width: 600px;
+}
+.img-fluid {
+  width: 500px;
+  margin: 20px;
+}
+ul.my-4.mx-4.px-5.fs-5 {
+  list-style-position: inside;
+  text-align: left;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+ul ul {
+  padding-left: 20px;
+}
+
+.l-quote {
+  padding: 20px;
+}
