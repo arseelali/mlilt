@@ -5,7 +5,7 @@ const footerText = document.getElementById('footer');
 footerText.innerHTML = `© ${currentYear} Arseel Ali`;
 
 // Login Listener
-var password = "superSecretPassword"
+var password = "arseel.auth"
 document.getElementById("auth").addEventListener("submit", function(event){
     event.preventDefault(); 
     var userStoredPass = document.getElementById("password").value;
